@@ -6,3 +6,5 @@
 ## About
 #### Run using `./test <min> <max> <frequency>`
 #### This module is used to create random numbers.
+
+> (c)bitwise studio
