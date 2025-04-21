@@ -1,3 +1,5 @@
+// (c)bitwise studio
+
 #include <stdio.h>
 #include <stdlib.h>
 #include "lcg.h"
@@ -5,6 +7,8 @@
 
 int main(int argc, char** argv)
 {
+    printf("Created by (c)bitwise studio\n");
+
     if (argc < 4)
     {
         printf("<%s> <min> <max> <frequency>\n", argv[0]);
